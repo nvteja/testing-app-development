@@ -14,7 +14,6 @@
 		7185E77F1C431CAF0019C929 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7185E77D1C431CAF0019C929 /* LaunchScreen.storyboard */; };
 		7185E78A1C431CAF0019C929 /* Test_gitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7185E7891C431CAF0019C929 /* Test_gitTests.swift */; };
 		7185E7951C431CAF0019C929 /* Test_gitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7185E7941C431CAF0019C929 /* Test_gitUITests.swift */; };
-		7185E7A31C4323080019C929 /* bears-logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7185E7A21C4323080019C929 /* bears-logo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		7185E7901C431CAF0019C929 /* Test-gitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Test-gitUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7185E7941C431CAF0019C929 /* Test_gitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_gitUITests.swift; sourceTree = "<group>"; };
 		7185E7961C431CAF0019C929 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7185E7A21C4323080019C929 /* bears-logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bears-logo.jpg"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				7185E7741C431CAF0019C929 /* AppDelegate.swift */,
-				7185E7A21C4323080019C929 /* bears-logo.jpg */,
 				7185E7761C431CAF0019C929 /* ViewController.swift */,
 				7185E7781C431CAF0019C929 /* Main.storyboard */,
 				7185E77B1C431CAF0019C929 /* Assets.xcassets */,
@@ -232,7 +229,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7185E7A31C4323080019C929 /* bears-logo.jpg in Resources */,
 				7185E77F1C431CAF0019C929 /* LaunchScreen.storyboard in Resources */,
 				7185E77C1C431CAF0019C929 /* Assets.xcassets in Resources */,
 				7185E77A1C431CAF0019C929 /* Main.storyboard in Resources */,
